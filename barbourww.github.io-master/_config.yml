@@ -1,25 +1,25 @@
-title:            William Barbour
-description:      Artificial intelligence + systems engineering.
+title:            Matthew Nice
+description:      Embedded Systems and Biomedical Engineering.
 disqus_shortname: 
 reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: https://barbourww.github.io/
+url: https://MatthewNice.github.io/
 
 # Owner/author information
 owner:
-  name:           William Barbour
-  avatar:         barbour_headshot_11_2016_zoom.jpg
-  bio:            "Ph.D. student at Vanderbilt University in Civil Engineering and the Institute for Software Integrated Systems"
-  email:          barbourww@gmail.com
+  name:           Matthew Nice
+  avatar:         #barbour_headshot_11_2016_zoom.jpg
+  bio:            "Master of Engineering student at Vanderbilt University in Cyber Physical Systems"
+  email:          matthewwalternice@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        wwbarbour
+  twitter:        #wwbarbour
   facebook:       
-  github:         barbourww
+  github:         MatthewNice
   stackexchange:  
   linkedin:       
-  instagram:      wbarbour1
+  instagram:      #wbarbour1
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
