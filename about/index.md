@@ -2,9 +2,10 @@
 layout: page
 title: Matthew Nice
 image:
-feature: 
+  feature: lookingout.jpg
+feature:
 comments: false
-modified: 2019-05-24
+modified: 2019-05-27
 ---
 
 # Biography
@@ -17,4 +18,3 @@ I am a masters student in Cyber Physical Systems at Vanderbilt University resear
 
 
 In my free time I enjoy ultimate frisbee, laser cutting, jogging, and beer tasting. See my [blog posts]({{ site.url }}/chronposts/) for some of my personal projects. I have a puppy Roux who enjoys jogging with me (still working on catching a frisbee).
-
