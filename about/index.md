@@ -10,7 +10,7 @@ modified: 2019-05-27
 
 # Biography
 
-I am a masters student in Cyber Physical Systems at Vanderbilt University researching transportation systems with [Professor Daniel Work](https://my.vanderbilt.edu/danwork/). I earned my B.S.E in Biomedical Engineering from Tulane University in New Orleans, where I graduated with honors from the Tulane Honors Program and was awarded the Senior Honors Scholar for highest scholarly achievement of my major.
+I am a masters student in Cyber Physical Systems at Vanderbilt University researching transportation systems with [Professor Daniel Work](https://my.vanderbilt.edu/danwork/). I earned my B.S.E. in Biomedical Engineering from Tulane University in New Orleans, where I graduated with honors from the Tulane Honors Program and was awarded the Senior Honors Scholar for highest scholarly achievement of my major.
 
 <a href="mailto:{{ site.owner.email | encode_email }}" title="Email me">Email me</a> to get in touch, or see additional contact information on my r&eacute;sum&eacute; and CV.
 
