@@ -12,6 +12,6 @@ tags: [laser engraving, Tulane, trees]
 {% capture images %}
 	/images/newOrleans3.jpg
 	/images/tree.png
-	/images/atHome.jpg
+	/images/atHome.jpeg
 {% endcapture %}
-{% include gallery images=images caption="`figure` Tree image transormed into a bitmap for rastering." cols=3 %}
+{% include gallery images=images caption=`figure`"Tree image transormed into a bitmap for rastering." cols=3 %}
