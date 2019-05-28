@@ -2,7 +2,7 @@
 layout: page
 title: Primary Research Projects
 image:
-  feature: GNP.jpg
+  feature: 1.png
 comments: false
 modified: 2019-05-28
 ---
