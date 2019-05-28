@@ -2,10 +2,10 @@
 layout: page
 title: Matthew Nice
 image:
-  feature: lookingout.jpg
+  feature: rocks.jpg
 feature:
 comments: false
-modified: 2019-05-27
+modified: 2019-05-28
 ---
 
 # Biography
