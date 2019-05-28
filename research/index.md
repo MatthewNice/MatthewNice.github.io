@@ -2,9 +2,9 @@
 layout: page
 title: Primary Research Projects
 image:
-  feature: <!--kandersteg2.jpg-->
+  feature: GNP.jpg
 comments: false
-modified: 2019-05-24
+modified: 2019-05-28
 ---
 
 ## Decoding vehicle messages
@@ -28,4 +28,3 @@ Tools:
 * Comma.ai Panda and Giraffe
 
 ## Reverse engineering vehicle messages and signals
-
