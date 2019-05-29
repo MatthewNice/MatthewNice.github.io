@@ -6,9 +6,9 @@ image:
 comments: false
 modified: 2019-05-28
 ---
-
+# Vanderbilt
 ## Decoding vehicle messages
-
+In the Work Laboratory I inherited the beginnings of a project working on reading out and analyzing car sensor data.
 <!--
 I have written a mixed integer linear optimization model that dispatches trains according to signaling constraints on single track railway lines with passing sidings and does so optimally according to the minimization of a weighted delay measure.
 
@@ -26,5 +26,10 @@ Specifically, the forward optimization problem (dispatching trains) can be tuned
 Tools:
 * Python 3
 * Comma.ai Panda and Giraffe
+* Toyota Camry, Toyota Rav4 2019
 
 ## Reverse engineering vehicle messages and signals
+
+#Tulane
+
+##Murfee Microvascular Dynamics Laboratory

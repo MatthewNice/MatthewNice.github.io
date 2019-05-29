@@ -12,7 +12,7 @@ owner:
   name:           Matthew Nice
   avatar:         capitals.jpg
   bio:            "Master of Engineering student at Vanderbilt University in Cyber Physical Systems"
-  email:          matthewwalternice@gmail.com
+  email:          matthew.nice@vanderbilt.edu
   # Social networking links used in footer. Update and remove as you like.
   twitter:        #wwbarbour
   facebook:
@@ -29,7 +29,8 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   #UA-113156092-1
+google_analytics:   UA-141088319-1
+
 google_verify:
 
 plugins:
