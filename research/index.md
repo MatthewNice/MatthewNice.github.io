@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Primary Research Projects
+title: Research Projects
 image:
   feature: 1.png
 comments: false
