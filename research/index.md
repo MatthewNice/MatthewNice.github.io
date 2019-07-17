@@ -14,7 +14,7 @@ The ability to record the actions of the car opens the door for understanding th
 
 
 <figure>
-	#<a href="{{ site.url }}/images/panda.JPG"><img src="{{ site.url }}/images/panda.JPG" alt="" rotate="90"></a>
+	<a href="{{ site.url }}/images/panda.JPG"><img src="{{ site.url }}/images/panda.JPG" alt="" rotate="90"></a>
 </figure>
 
 
