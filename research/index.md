@@ -4,24 +4,19 @@ title: Primary Research Projects
 image:
   feature: 1.png
 comments: false
-modified: 2019-05-28
+modified: 2019-07-17
 ---
 # Vanderbilt
-## Decoding vehicle messages
-In the Work Laboratory I inherited the beginnings of a project working on reading out and analyzing car sensor data.
-<!--
-I have written a mixed integer linear optimization model that dispatches trains according to signaling constraints on single track railway lines with passing sidings and does so optimally according to the minimization of a weighted delay measure.
+## Decoding Vehicle Messages, ACC Transportation Research
+In the Work Laboratory I inherited the beginnings of a project working on reading out and analyzing car sensor data.  The figure shows the cord connected from behind the rear-view mirror that was used to record CAN messages. I created a data analysis toolset for the CAN messages being recorded off of vehicles. Using it, 50+ signals can be interpreted and analyzed in depth after a drive. Importantly, signals from the Automated Cruise Control, radar systems, and spedometer (among others) relate to ongoing research on the calibration of car following.
 
-This concept is similar to that used in commercial computer-aided dispatching systems, but those systems have the notable shortcoming of being overridden often in areas with complex dispatching situations. That is, they do not match the behavior of human dispatchers well. I propose to remedy this problem by performing inverse optimization according to known historical data for single track rail lines.
+The ability to record the actions of the car opens the door for understanding the currently implemented following algorithms from manufacturers. It also is a big step closer toward testing an optimized car following algorithm from the lab, fingerprinting drivers, and more.
 
-Specifically, the forward optimization problem (dispatching trains) can be tuned to match historical dispatching behavior as closely as possible. The resulting dispatching model is a useful simulation tool that could be used for prediction of train arrivals, assessment of dispatching performance, investigation of track infrastructure layout, and schedule optimization.
--->
 
-<!--
 <figure>
-	#<a href="{{ site.url }}/images/stringline.png"><img src="{{ site.url }}/images/stringline.png" alt=""></a>
+	#<a href="{{ site.url }}/images/panda.JPG"><img src="{{ site.url }}/images/panda.JPG" alt=""></a>
 </figure>
--->
+
 
 Tools:
 * Python 3
@@ -29,7 +24,3 @@ Tools:
 * Toyota Camry, Toyota Rav4 2019
 
 ## Reverse engineering vehicle messages and signals
-
-#Tulane
-
-##Murfee Microvascular Dynamics Laboratory
