@@ -20,6 +20,8 @@ The ability to record the actions of the car opens the door for understanding th
 
 Tools:
 * Python 3
+* pandas data analysis library
+* cantools library
 * Comma.ai Panda and Giraffe
 * Toyota Camry, Toyota Rav4 2019
 
