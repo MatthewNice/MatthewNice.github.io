@@ -22,7 +22,5 @@ Tools:
 * Python 3
 * pandas data analysis library
 * cantools library
-* Comma.ai Panda and Giraffe
-* Toyota Camry, Toyota Rav4 2019
 
 ## Reverse engineering vehicle messages and signals

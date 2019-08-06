@@ -5,7 +5,7 @@ image:
   feature: rocks.jpg
 feature:
 comments: false
-modified: 2019-05-28
+modified: 2019-08-06
 ---
 
 # Biography
@@ -17,4 +17,4 @@ I am a masters student in Cyber Physical Systems at Vanderbilt University resear
 <div markdown="0"><a href="{{ site.url }}/download/matthew_nice_cv.pdf" class="btn btn-info">Curriculum Vitae</a> <a href="{{ site.url }}/download/matthew_nice_resume.pdf" class="btn btn-success">R&eacute;sum&eacute;</a></div>
 
 
-In my free time I enjoy ultimate frisbee, laser cutting, jogging, and beer tasting. See my [blog posts]({{ site.url }}/chronposts/) for some of my personal projects. I have a puppy Roux who enjoys jogging with me (still working on catching a frisbee).
+In my free time I enjoy playing ultimate frisbee with the Nashville Trash Pandas, laser cutting, jogging, and beer tasting. See my [blog posts]({{ site.url }}/chronposts/) for some more info on my projects. I have a puppy Roux who enjoys jogging with me (still working on catching a frisbee).
