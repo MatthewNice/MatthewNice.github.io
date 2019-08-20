@@ -1,5 +1,5 @@
 title:            Matthew Nice
-description:      Embedded Systems and Biomedical Engineering.
+description:      Cyber Physical Systems and Biomedical Engineering.
 disqus_shortname:
 reading_time:     false
 words_per_minute: 200
@@ -11,7 +11,7 @@ url: https://MatthewNice.github.io/
 owner:
   name:           Matthew Nice
   avatar:         capitals.jpg
-  bio:            "Master of Engineering student at Vanderbilt University in Cyber Physical Systems"
+  bio:            "Master of Engineering Student at Vanderbilt University in Cyber Physical Systems"
   email:          matthew.nice@vanderbilt.edu
   # Social networking links used in footer. Update and remove as you like.
   twitter:        #wwbarbour
