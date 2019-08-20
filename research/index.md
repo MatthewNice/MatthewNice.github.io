@@ -17,6 +17,7 @@ In the Work Laboratory I chose a project working on reading out and analyzing ca
 </figure>
 
 Initially, decoding the radar was confounding. There were 16 different 'tracks' of messages that were all measuring the same signals. This is a break from the pattern of the rest of the CAN messages and signals from before. Looking at all of the tracks' recordings for one signal is quite the mess:
+
 <figure class = "half">
 <a href="{{ site.url }}/images/radar_all_track.png"><img src="{{ site.url }}/images/radar_all_track.png" alt=""></a>
 <a href="{{ site.url }}/images/all_track.png"><img src="{{ site.url }}/images/all_track.png" alt=""></a>
