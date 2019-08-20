@@ -10,14 +10,19 @@ modified: 2019-07-17
 ## CAN Bus Project
 In the Work Laboratory I chose a project working on reading out and analyzing car sensor data. Using the OBD-II port behind the rear-view mirror, we recorded CAN messages (see image below). I created a data analysis toolset for the CAN messages being recorded off of vehicles. Using it, 50+ signals can be interpreted and analyzed in depth after a drive. Importantly, signals from the Automated Cruise Control, radar systems, and speedometer (among others) relate to ongoing transportation systems research.
 
-The ability to record the actions of the car opens the door for understanding the currently implemented following algorithms from manufacturers. It also is a big step closer toward testing an optimized car following algorithm from the lab, fingerprinting drivers, and more.
-
 <figure class = "half">
 	<a href="{{ site.url }}/images/panda.jpeg"><img src="{{ site.url }}/images/panda.jpeg" alt=""></a>
   <a href="{{ site.url }}/images/relVel2.png"><img src="{{ site.url }}/images/relVel2.png" alt=""></a>
   <a href="{{ site.url }}/images/longdist2.png"><img src="{{ site.url }}/images/longdist2.png" alt=""></a>
 </figure>
 
+In only a few months, I showed that we could understand intimately what is going on in the ego car (the car you're driving) and see what the car's radar system sees. We can use this technology to keep track of the leading vehicle and vehicles in other lanes as two of the images below show. You will notice the longitudinal distance and relative velocity of two different cars the ego car is tracking.
+
+<figure class = "half">
+  <a href="{{ site.url }}/images/relVel2.png"><img src="{{ site.url }}/images/relVel2.png" alt=""></a>
+  <a href="{{ site.url }}/images/longdist2.png"><img src="{{ site.url }}/images/longdist2.png" alt=""></a>
+  <a href="{{ site.url }}/images/all_track.png"><img src="{{ site.url }}/images/all_track.png" alt=""></a>
+</figure>
 
 Tools:
 * Python 3
