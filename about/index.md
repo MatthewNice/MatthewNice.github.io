@@ -16,7 +16,11 @@ My undergraduate research focused on microvasculature, angiogenesis more specifi
 
 My career interests focus on the application of advanced computational techniques (e.g. big data analytics, machine learning, optimization) to systems anchored to the physical world (e.g. cars, stock exchanges, sensor networks).  I have applied these interests in my Master of Engineering project by reverse engineering the CAN bus on cars with use of big data analytics in Python.
 
-Generally I believe that knowledge, or development of a project, generally follows the shape of the curve below. I relish opportunities to work in an environment in the middle where I can start with the basics already known, "20% knowledge", and deliver substantial progress, "80% knowledge". Frankly, I'd rather do something quickly and get it out into the world to make an impact. If I spend the extra time perfecting it to "100% knowledge" I'll get bored and ineffective.
+<figure class="half">
+<a href="{{ site.url }}/images/knowledge_v_time.png"><img src="{{ site.url }}/images/knowledge_v_time.png" alt=""></a>
+</figure>
+
+Generally I believe that knowledge, or development of a project, generally follows the shape of the curve above. I relish opportunities to work in an environment in the middle where I can start with the basics already known, "20% knowledge", and deliver substantial progress, "80% knowledge". Frankly, I'd rather do something quickly and get it out into the world to make an impact. If I spend the extra time perfecting it to "100% knowledge," I'll get bored and ineffective.
 <figure class="half">
 <a href="{{ site.url }}/images/knowledge_v_time.png"><img src="{{ site.url }}/images/knowledge_v_time.png" alt=""></a>
 </figure>
