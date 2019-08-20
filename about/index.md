@@ -10,7 +10,12 @@ modified: 2019-08-06
 
 # Biography
 
-I am a masters student in Cyber Physical Systems at Vanderbilt University researching transportation systems with [Professor Daniel Work](https://my.vanderbilt.edu/danwork/). I earned my B.S.E. in Biomedical Engineering from Tulane University in New Orleans, where I graduated with honors from the Tulane Honors Program and was awarded the Senior Honors Scholar for highest scholarly achievement of my major.
+I am a M. Eng. student in Cyber Physical Systems at Vanderbilt University researching technology in transportation systems with [Professor Daniel Work](https://my.vanderbilt.edu/danwork/). I earned my B.S.E. in Biomedical Engineering from Tulane University in New Orleans, where I graduated with honors from the Tulane Honors Program and was awarded the Senior Honors Scholar for highest scholarly achievement of my major.
+
+My career goal is to work with exciting engineering technology ideas, maximizing my impact by working with a concept in the middle of a logistic curve. I believe that knowledge, or development of a project, generally follows the shape of the curve below. I relish opporunities to work in an environment in the middle where I can start with the basics already known, "20% knowledge", and deliver with something most of the way to finished, "80% knowledge". Frankly, I'd rather do something quickly and get it out into the world. If I spend the extra time perfecting it to "100% knowledge" I'll get bored and ineffective.
+<figure class="half">
+<a href="{{ site.url }}/images/knowledge_v_time.png"><img src="{{ site.url }}/images/knowledge_v_time.png" alt=""></a>
+</figure>
 
 <a href="mailto:{{ site.owner.email | encode_email }}" title="Email me">Email me</a> to get in touch, or see additional contact information on my r&eacute;sum&eacute; and CV.
 
@@ -18,3 +23,8 @@ I am a masters student in Cyber Physical Systems at Vanderbilt University resear
 
 
 In my free time I enjoy playing ultimate frisbee with the Nashville Trash Pandas, laser cutting, jogging, and beer tasting. See my [blog posts]({{ site.url }}/chronposts/) for some more info on my projects. I have a puppy Roux who enjoys jogging with me (still working on catching a frisbee).
+
+<figure class="half">
+<a href="{{ site.url }}/images/Roux_on_bed.jpeg"><img src="{{ site.url }}/images/Roux_on_bed.jpeg" alt=""></a>
+<a href="{{ site.url }}/images/mikey_bike.jpg"><img src="{{ site.url }}/images/mikey_bike.jpg" alt=""></a>
+</figure>
