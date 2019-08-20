@@ -37,5 +37,5 @@ In my free time I enjoy playing ultimate frisbee with the Nashville Trash Pandas
 
 <figure class="half">
 <a href="{{ site.url }}/images/Roux_on_bed.jpeg"><img src="{{ site.url }}/images/Roux_on_bed.jpeg" alt=""></a>
-<a href="{{ site.url }}/images/gelato.jpeg"><img src="{{ site.url }}/images/gelato.jpeg" alt="Me eating gelato."></a>
+<a href="{{ site.url }}/images/gelato.jpeg"><img src="{{ site.url }}/images/gelato.jpeg" alt="Me eating gelato." style="transform:rotate(90deg)></a>
 </figure>
