@@ -20,7 +20,7 @@ In only a few months, I showed that we could understand intimately what is going
 
 <figure class = "half">
   <a href="{{ site.url }}/images/relVel2.png"><img src="{{ site.url }}/images/relVel2.png" alt=""></a>
-    <a href="{{ site.url }}/images/longdist2.png"><img src="{{ site.url }}/images/longdist2.png" alt=""></a>
+  <a href="{{ site.url }}/images/longdist2.png"><img src="{{ site.url }}/images/longdist2.png" alt=""></a>
   <a href="{{ site.url }}/images/radar_all_track.png"><img src="{{ site.url }}/images/radar_all_track.png" alt=""></a>
   <a href="{{ site.url }}/images/all_track.png"><img src="{{ site.url }}/images/all_track.png" alt=""></a>
 </figure>
