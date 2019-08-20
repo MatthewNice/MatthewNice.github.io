@@ -8,7 +8,7 @@ modified: 2019-07-17
 ---
 # Graduate Research at Vanderbilt
 ## CAN Bus Project
-In the Work Laboratory I chose a project working on reading out and analyzing car sensor data. Using the OBD-II port behind the rear-view mirror, we recorded CAN messages (see image below). I created a data analysis toolset for the CAN messages being recorded off of vehicles. Using it, 50+ signals can be interpreted and analyzed in depth after a drive. Importantly, signals from the Automated Cruise Control, radar systems, and speedometer (among others) relate to ongoing transportation systems research.
+In the Work Laboratory I chose a project working on reading out and analyzing car sensor data. Using the OBD-II port behind the rear-view mirror, we recorded CAN messages (see image below). I created a data analysis toolset for the CAN messages being recorded off of vehicles. Using it, 50+ signals can be interpreted and analyzed in depth after a drive. In only a few months, I showed that we could understand intimately what is going on in the ego car (the car you're driving) and see what the car's radar system sees.
 
 <figure class = "half">
 	<a href="{{ site.url }}/images/panda.jpeg"><img src="{{ site.url }}/images/panda.jpeg" alt=""></a>
@@ -16,13 +16,17 @@ In the Work Laboratory I chose a project working on reading out and analyzing ca
   <a href="{{ site.url }}/images/steer_angle.png"><img src="{{ site.url }}/images/steer_angle.png" alt=""></a>
 </figure>
 
-In only a few months, I showed that we could understand intimately what is going on in the ego car (the car you're driving) and see what the car's radar system sees. We can use this technology to keep track of the leading vehicle and vehicles in other lanes as two of the images below show. You will notice the longitudinal distance and relative velocity of two different cars the ego car is tracking.
+Initially, decoding the radar was confounding. There were 16 different 'tracks' of messages that were all measuring the same signals. This is a break from the pattern of the rest of the CAN messages and signals from before. Looking at all of the tracks' recordings for one signal is quite the mess:
+<figure class = "half">
+<a href="{{ site.url }}/images/radar_all_track.png"><img src="{{ site.url }}/images/radar_all_track.png" alt=""></a>
+<a href="{{ site.url }}/images/all_track.png"><img src="{{ site.url }}/images/all_track.png" alt=""></a>
+</figure>
+
+ Eventually, we figured out how to filter the data to understand what the radar was recording. I used this method to keep track of the leading vehicle and vehicles in other lanes the two images below show. You will notice the longitudinal distance and relative velocity of two different cars the ego car is tracking. I was so pumped I first made these plots! They align exactly with video recordings of the drive, and redundant GPS sensor data collected.
 
 <figure class = "half">
   <a href="{{ site.url }}/images/relVel2.png"><img src="{{ site.url }}/images/relVel2.png" alt=""></a>
   <a href="{{ site.url }}/images/longdist2.png"><img src="{{ site.url }}/images/longdist2.png" alt=""></a>
-  <a href="{{ site.url }}/images/radar_all_track.png"><img src="{{ site.url }}/images/radar_all_track.png" alt=""></a>
-  <a href="{{ site.url }}/images/all_track.png"><img src="{{ site.url }}/images/all_track.png" alt=""></a>
 </figure>
 
 Tools:
