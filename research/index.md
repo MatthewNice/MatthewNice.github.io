@@ -26,14 +26,14 @@ Tools:
 ## Reverse engineering vehicle messages and signals
 
 # Undergraduate Research at Tulane
-## Angiogenesis in Stem Cells
-Stem cells derived from different sources are thought to have different results when interacting with microvascular networks. For this project, we harvested the thin mesenteric tissue from rats and cultured them for 5 days while they were still viable. Differing groups had adult, aged, adipose-derived, and bone marrow-derived stem cells embedded into them. By highlighting the cells and the blood vessels of the tissue with immunohistochemistry, we could track the changes in the microvasculature of the tissue over time.
+## Effects of Different Stem Cells in Rat Microvasculature Model
+Stem cells derived from different sources are thought to have different effects when interacting with microvascular networks. For this project, we harvested the thin mesenteric tissue from rats and cultured them for 5 days while they were still viable. Differing experimental groups had adult, aged, adipose-derived, and bone marrow-derived stem cells embedded into them. By highlighting the cells and the blood vessels of the tissue with immunohistochemistry, we could track the changes in the microvasculature of the tissue over time.
 
 <figure>
 	<a href="{{ site.url }}/images/1.png"><img src="{{ site.url }}/images/1.png" alt=""></a>
 </figure>
 
-Above is a sample montage image of a harvested tissue. The blood vessels are in green, the stem cells are in red. The essential measurements were A) what is the change in the blood vessels over time, and B) are the cells migrating and showing pericyte behavior. Pericytes are a specific state of the stem cells that is known to facilitate blood flow and angiogenesis.
+Above is a sample montage image of a couple centimeter wide harvested tissue. Originally it was over a GB in size (very hi-res microscopy). The blood vessels are in green, the stem cells are in red. The essential measurements were A) what is the change in the blood vessels over time, and B) are the cells migrating and showing pericyte behavior. Pericytes are a specific state of the stem cells that is known to facilitate blood flow and angiogenesis.
 
 ## Taking the Model from Rat to Mouse
 
