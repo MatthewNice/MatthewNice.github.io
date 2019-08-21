@@ -8,7 +8,7 @@ modified: 2019-07-17
 ---
 # Graduate Research at Vanderbilt
 ## CAN Bus Project
-In the Work Laboratory I chose a project working on reading out and analyzing car sensor data. Using the OBD-II port behind the rear-view mirror, we recorded CAN messages (see image below). I created a data analysis toolset for the CAN messages being recorded off of vehicles. Using it, 50+ signals can be interpreted and analyzed in depth after a drive. In only a few months, I showed that we could understand intimately what is going on in the ego car (the car you're driving) and see what the car's radar system sees.
+In the Work Laboratory I chose a project working on reading out and analyzing car sensor data. Using the OBD-II port behind the rear-view mirror, we recorded CAN messages (see image below). I created a data analysis toolset for the CAN messages being recorded off of vehicles. Using it, 50+ signals can be interpreted and analyzed in depth after a drive. In only a few months, I showed that we could understand intimately what is going on in the ego car (the car you're driving) and see what the car's radar system sees. Below we see the cord extending from the OBD-II port, and sample Speed and Steering Angle plots from a test drive.
 
 <figure class = "half">
 	<a href="{{ site.url }}/images/panda.jpeg"><img src="{{ site.url }}/images/panda.jpeg" alt=""></a>
@@ -35,8 +35,6 @@ Tools:
 * pandas library
 * numpy library
 * cantools library
-
-## Reverse engineering vehicle messages and signals
 
 # Undergraduate Research at Tulane
 ## Effects of Different Stem Cells in Rat Microvasculature Model
