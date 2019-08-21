@@ -10,11 +10,11 @@ image:
   creditlink:
 ---
 
-# Notes on My Panda Data Collection
+## Notes on My Data Collection
 
 See **PandaCANAnalysis.ipynb** on my GitHub for comments and notes on code. Here I have some freeform comments on the data analysis process.
 
-## Standard Row of Data from Panda/Giraffe Collected
+### Standard Row of Data Collected From a Vehicle
 
 | Index| Time | Bus |Addr | Message |MessageLength |
 |:--------|:-------:|--------:|:--------|:-------:|--------:|
@@ -31,7 +31,7 @@ The last two pieces of data convey a lot of information. The addr and message ar
 The car’s electronic control units (ECUs) and sensors are all connected to the CAN bus, and filter out only the messages sent on the address(es) relevant to them. The address gives the context to decipher the information embedded in the hexadecimal message string. Each message contains 8 bytes of information which can be broken down into a set of signals. Address 170 is a message on wheel speeds. A message sent with the address 170 contains four signals of 16 bits: front right wheel, front left wheel, rear right wheel, and rear left wheel. Each signal is the same size and has the same characteristics. In contrast, something like the Brake Module message contains ‘brake pressure’ and ‘brake position’ signals that are 9 bits each, and a ‘brake pressed' signal that is one bit (since it is binary, it only needs one bit).
 
 ### Wheel Speeds Figure:
-
+![Wheel Speeds Image]({{ site.url }}/images/wheel speed.png)
 ###DBC Breakdown
 Each message is different, and is decoded with a DBC file. The DBC has stringent formatting rules that convey the messages, the signals subset of the message, the start, size, scale, offset, min, max, unites, endian-ness, and signed-ness of the message. This system is used for all sorts of vehicles (yachts, riding lawn mowers, trucks, etc.) There are also multiplexed messages, which,  “can be used (indirectly) to send more than 8 bytes using a single message ID." For example, if we use a 2-bit MUX, we can send 62-bits of data with four multiplexers (M0, M1, M2, M3). In other words, your message could state that:\n
 If first 2-bits are 0 (M0), then 62-bits of data is for the car's front sensors
