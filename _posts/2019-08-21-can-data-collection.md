@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CAN Data Collection and Cleaning"
-description:
+description: "Data Cleaning for CAN Bus Project"
 modified: 2019-08-21
 tags: [research, cleaning data]
 image:
