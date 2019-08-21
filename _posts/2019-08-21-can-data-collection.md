@@ -5,7 +5,7 @@ description: "Data Cleaning for CAN Bus Project"
 modified: 2019-08-21
 tags: [research, cleaning data]
 image:
-  feature: code_in_car.jpg
+  feature: code_in_car.jpeg
   credit: MatthewNice
   creditlink:
 ---
