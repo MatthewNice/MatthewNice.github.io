@@ -23,6 +23,7 @@ My undergraduate research focused on microvasculature, angiogenesis more specifi
 
 My graduate research has focused on collecting and deciphering the messages off of the CAN bus on commercial vehicles. By unlocking this data, I have been enabled a 10x reduction in experimental costs, and opened up new avenues of research for the Work Lab. See my [research page]({{ site.url }}/research/) for more on this.
 
+
 ## Career Interests
 My career interests focus on the application of advanced computational techniques (e.g. big data analytics, machine learning, optimization) to systems anchored to the physical world (e.g. cars, stock exchanges, sensor networks).  I have applied these interests in my Master of Engineering project by reverse engineering the CAN bus on cars with use of big data analytics in Python.
 
@@ -30,7 +31,7 @@ My career interests focus on the application of advanced computational technique
 <a href="{{ site.url }}/images/knowledge_v_time.png"><img src="{{ site.url }}/images/knowledge_v_time.png" alt=""></a>
 </figure>
 
-Generally I believe that knowledge, or development of a project, generally follows the shape of the curve above. I relish opportunities to work in an environment in the middle where I can start with the basics already known, "20% knowledge", and deliver substantial progress, "80% knowledge". Frankly, I'd rather do something quickly and get it out into the world to make an impact. If I spend the extra time perfecting it to "100% knowledge," I'll get bored and ineffective.
+Generally I believe that knowledge, or development of a project, follows the shape of the curve above. I relish opportunities to work in an environment in the middle where I can start with the basics already known, "20% knowledge", and deliver substantial progress, "80% knowledge". Frankly, I'd rather do something quickly and get it out into the world to make an impact. If I spend the extra time perfecting it to "100% knowledge," I'll get bored and ineffective.
 
 ## Hobbies
 In my free time I enjoy playing ultimate frisbee with the Nashville Trash Pandas, laser cutting, jogging, and gelato. See my [blog posts]({{ site.url }}/chronposts/) for some more info on my projects. I have a puppy Roux who enjoys jogging with me (still working on catching a frisbee).
