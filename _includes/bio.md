@@ -1,0 +1,9 @@
+I am a Doctoral Candidate in Civil and Environmental Engineering at the Institute for Software Integrated Systems, Vanderbilt University. My PhD has been advised by [Prof. Dan Work](https://lab-work.github.io/) and [Prof. Jonathan Sprinkle](https://engineering.vanderbilt.edu/bio/jonathan-sprinkle). I completed my B.S.E. in Biomedical Engineering at Tulane University, where I worked in the Microvascular Dynamics Lab with [Prof. W.L. Murfee](https://www.bme.ufl.edu/dept-member/murfee_walter_lee/) during my undergraduate studies.
+
+
+My research is focused on fielding novel scalable connectivity and automation in cars. We are still in the early stages of considering mobility in a transportation cyber-physical system. Integrating computing, robotics, and automation in transportation systems could revolutionize the safety and efficiency of mobility at a societal scale.
+
+<a href="mailto:matthew.nice@vanderbilt.edu">Email</a> / <a href="https://scholar.google.com/citations?user=L7iiK3MAAAAJ&hl=en">Google Scholar</a> /
+    <a href="https://youtube.com/@MatthewNiceVideos">YouTube</a> / <a href="https://www.linkedin.com/in/matthew-nice">LinkedIn</a> / <a href="https://github.com/MatthewNice">Github</a>
+
+____

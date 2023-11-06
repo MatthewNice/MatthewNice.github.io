@@ -1,9 +1,8 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-gem "json"
+# gem "rails"
 gem "jekyll"
-gem "jekyll-sitemap"
-gem "jekyll-feed"
-gem "jekyll-paginate"
-gem "jekyll-gist"
-gem "jekyll-email-protect"
+
+gem "webrick", "~> 1.7"
