@@ -93,7 +93,7 @@ title: "Matt Nice's Personal Website"
 
         {% capture service %}{% include service.md %}{% endcapture %}
         <p>{{ service | markdownify }}</p>
-          
+
         </div>
     </div>
     <div class="row">
@@ -110,6 +110,10 @@ title: "Matt Nice's Personal Website"
     <div class="container-sm">
         <div class="row">
             <div class="col" style="text-align: center">
+            <span class="text-muted">
+            {% capture funding %}{% include funding.md %}{% endcapture %}
+            <p>{{ funding | markdownify }}</p>
+            </span>
                 <span class="text-muted">
                     Feel free to use the <a href="https://github.com/MatthewNice/MatthewNice.github.io">source code</a> of this website. References designs from <a href="https://github.com/TonyLianLong/websitev2">Tony Lian</a> and <a href="https://github.com/jonbarron/website">Jon Barron</a>. The fonts are based on <a href="https://checkmyworking.com/cm-web-fonts/">this</a> project. Uses <a href="https://github.com/jekyll/jekyll">Jekyll</a> and <a href="https://getbootstrap.com/">Bootstrap</a>.
                 </span>
