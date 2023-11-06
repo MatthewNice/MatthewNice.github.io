@@ -1,5 +1,5 @@
 # Website
-Tony Lian's personal website served at [https://tonylian.com](https://tonylian.com). This is a remodel of a previous website in LaTeX-style.
+Matt Nice's personal website served at <https://MatthewNice.github.io>. This is a remodel of a previous website in LaTeX-style.
 
 ## LICENSE
 Fonts and libraries have their own license. Other than that, this website uses MIT License.
