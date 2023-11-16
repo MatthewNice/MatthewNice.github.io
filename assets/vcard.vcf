@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Matthew Nice
+N;CHARSET=UTF-8:Nice;Matthew;;;
+NICKNAME;CHARSET=UTF-8:Matt
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:matthew.nice@vanderbilt.edu
+TEL;TYPE=CELL:7032016443
+LABEL;CHARSET=UTF-8;TYPE=WORK:Institute for Software Integrated Systems
+ADR;CHARSET=UTF-8;TYPE=WORK:;;1025 16th Avenue;Nashville;TN;37212;USA
+TITLE;CHARSET=UTF-8:Doctoral Candidate
+ORG;CHARSET=UTF-8:Vanderbilt University
+URL;CHARSET=UTF-8:matthewnice.github.io
+URL;type=WORK;CHARSET=UTF-8:lab-work.github.io
+X-SOCIALPROFILE;TYPE=linkedin:https://linkedin.com/in/matthew-nice
+X-SOCIALPROFILE;TYPE=Youtube:https://youtube.com/@matthewNiceVideos
+REV:2023-11-16T22:52:12.273Z
+END:VCARD
