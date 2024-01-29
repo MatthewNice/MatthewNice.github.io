@@ -3,6 +3,10 @@ ____
 
 #### Selected Grants, Fellowships, Awards, and Honors
 
+##### **Dwight D. Eisenhower Transportation Fellowship Research Showcase**, *USDOT* <span style="float:right;"> 2024 </span>
+
+One of 5 Fellows of 200+ selected to showcase their work at the DDETFP Research Showcase.
+
 ##### **Dwight D. Eisenhower Transportation Fellowship**, *USDOT* <span style="float:right;"> 2021, 2022, 2023 </span>
 
 Three-time award recipient. Awarded to the nation’s brightest minds in the field of transportation to help retain top talent in the U.S. transportation industry.
