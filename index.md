@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Matt Nice's Personal Website"
+title: "Dr. Matt Nice's Personal Site"
 ---
 
 <main role="main" class="container-sm" style="max-width: 1080px">
@@ -8,7 +8,7 @@ title: "Matt Nice's Personal Website"
         <div class="col">
             <p class="h1 mt-5 page-title">
                 <img class="profile-img-small d-md-none" src="{{ '/assets/profile.jpg' | relative_url }}" />
-                <span style="clear: right">Matthew W. Nice</span>
+                <span style="clear: right">Matthew W. Nice, PhD</span>
             </p>
             <p class="h4 section-title" style="clear: right">About</p>
             {% capture bio %}{% include bio.md %}{% endcapture %}
