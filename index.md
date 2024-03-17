@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Dr. Matt Nice's Personal Site"
+title: "Matt Nice's Personal Site"
 ---
 
 <main role="main" class="container-sm" style="max-width: 1080px">
