@@ -7,7 +7,7 @@ venue: '2022 International Conference on Robotics and Automation (ICRA)'
 paper_url: ''
 authors: '**Nice, Matthew W. \*** and Lichtle , Nathan\* and Vinitsky, Eugene\* and Seibold, Benjamin and Work, Dan and Bayen, Alexandre M'
 citation:
-cover_image: 11_cars.png
+cover_image: icra_gif.gif
 
 ---
 

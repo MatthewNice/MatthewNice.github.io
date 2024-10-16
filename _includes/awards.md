@@ -3,6 +3,11 @@ ____
 
 #### Selected Grants, Fellowships, Awards, and Honors
 
+
+##### **ITS Lead Institution Award**, *IEEE ITSC* <span style="float:right;"> 2024 </span>
+
+This award recognizes the achievements of the CIRCLES Consortium, of which I led the hardware/software research, development, and integration. It is for those who have made significant and outstanding contributions to the research and applications of ITS related technologies. This award was established to recognize, promote, stimulate and publicize major research contributions and outstanding achievement in ITS related fields.
+
 ##### **Dwight D. Eisenhower Transportation Fellowship Research Showcase**, *USDOT* <span style="float:right;"> 2024 </span>
 
 One of 5 Fellows of 200+ selected to showcase their work at the DDETFP Research Showcase.

@@ -1,4 +1,9 @@
-As of Fall 2024 I'm a Reseach Faculty at the Virginia Tech Transportation Institute! My previous reseach posts include being a Research Engineer at the Institute for Software Integrated Systems, at Vanderbilt University. My Ph.D. work was advised by [Prof. Dan Work, Civil Engineering](https://lab-work.github.io/) and [Prof. Jonathan Sprinkle, Computer Science](https://engineering.vanderbilt.edu/bio/jonathan-sprinkle). I completed my B.S.E. in Biomedical Engineering at Tulane University, where I worked in the Microvascular Dynamics Lab with [Prof. W.L. Murfee](https://www.bme.ufl.edu/dept-member/murfee_walter_lee/) during my undergraduate studies.
+As of Fall 2024 I'm a **Reseach Faculty at the Virginia Tech Transportation Institute**!
+I have a courtesy appointment as **Adjoint Assistant Professor of Computer Science at Vanderbilt University**.
+My previous reseach posts include being a Research Engineer at the Institute for Software Integrated Systems,
+at Vanderbilt University.
+My Ph.D. work was advised by [Prof. Dan Work, Civil Engineering](https://lab-work.github.io/) and [Prof. Jonathan Sprinkle, Computer Science](https://engineering.vanderbilt.edu/bio/?pid=jonathan-sprinkle).
+I completed my B.S.E. in Biomedical Engineering at Tulane University, where I worked in the Microvascular Dynamics Lab with [Prof. W.L. Murfee](https://www.bme.ufl.edu/dept-member/murfee_walter_lee/) during my undergraduate studies.
 
 My research is focused on fielding novel technologies like connectivity and automation in cars, connectivity technology for vulnerable road users, and integrations with smart infrastructure. We are still in the early stages of considering mobility in a transportation cyber-physical system. Integrating computing, robotics, and automation in transportation systems could revolutionize the safety and efficiency of mobility at a societal scale.
 
