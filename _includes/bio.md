@@ -1,5 +1,4 @@
 As of Fall 2024 I'm a **Reseach Faculty at the Virginia Tech Transportation Institute**!
-I have a courtesy appointment as **Adjoint Assistant Professor of Computer Science at Vanderbilt University**.
 My previous reseach posts include being a Research Engineer at the Institute for Software Integrated Systems,
 at Vanderbilt University.
 My Ph.D. work was advised by [Prof. Dan Work, Civil Engineering](https://lab-work.github.io/) and [Prof. Jonathan Sprinkle, Computer Science](https://engineering.vanderbilt.edu/bio/?pid=jonathan-sprinkle).
