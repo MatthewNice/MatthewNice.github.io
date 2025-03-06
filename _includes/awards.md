@@ -3,6 +3,13 @@ ____
 
 #### Selected Grants, Fellowships, Awards, and Honors
 
+##### **Outstanding Paper Award, Institute for Software Integrated Systems**, *TRB AM* <span style="float:right;"> 2025 </span>
+
+“Stop-and-go waves reconstruction via iterative refinement”, Ji et al., 2025
+
+##### **Best Paper Award, Travel Time Speed and Reliability (TTSR) Subcommittee**, *TRB AM* <span style="float:right;"> 2025 </span>
+
+“Assessing an AI-based Variable Speed Limit System on Proactive Slowdown Warnings with Ultra-High Fidelity Speed Data”, Zhang et al., 2025
 
 ##### **ITS Lead Institution Award**, *IEEE ITSC* <span style="float:right;"> 2024 </span>
 
