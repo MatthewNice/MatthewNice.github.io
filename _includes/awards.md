@@ -3,6 +3,10 @@ ____
 
 #### Selected Grants, Fellowships, Awards, and Honors
 
+##### **Best Paper Award, International Conference on Cyber-Physical Systems**, *ACM/IEEE ICCPS* <span style="float:right;"> 2025 </span>
+
+The premier single-track conference in cyber-physical systems. “Can control barrier functions keep automated vehicles safe in live freeway traffic?”, Gunter et al., 2025
+
 ##### **Outstanding Paper Award, Institute for Software Integrated Systems**, *TRB AM* <span style="float:right;"> 2025 </span>
 
 “Stop-and-go waves reconstruction via iterative refinement”, Ji et al., 2025
