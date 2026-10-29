@@ -1,7 +1,13 @@
 
 ____
 
-#### Selected Grants, Fellowships, Awards, and Honors
+#### Selected Fellowships, Awards, and Honors
+
+
+##### **Innovation in Community Award, 2nd Place, Innovate Awards**, *T-Mobile* <span style="float:right;"> 2025 </span>
+
+Awarded at 4th annual Innovate Awards, for Virginia Tech Transportation Institute's work with VDOT on deploying connected vehicles tied to a Variable Speed Limit system on I-95. T-Mobile "recognizes leaders who find creative ways to serve their communities". [More Info](https://www.t-mobile.com/content/dam/digx/tfb/us/en/non-dynamic-media/pdf/9121552_Innova-Awards_Winner-Use-Cases_VT-Transportation_DELV.pdf?icid=TFB_TMO_P_TFBEVRGN_823556542029EB4C44457)
+
 
 ##### **Best Paper Award, International Conference on Cyber-Physical Systems**, *ACM/IEEE ICCPS* <span style="float:right;"> 2025 </span>
 
